@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aniypon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Aniypon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&count_private=true" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -84,7 +84,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aniypon/Aniypon/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aniypon/Aniypon/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ###
